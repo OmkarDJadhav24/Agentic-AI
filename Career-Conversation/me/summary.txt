@@ -1,0 +1,70 @@
+I am Omkar Jadhav, a Software Engineer with **3+ years of experience** in Python backend development, Insurance domain applications, and advanced Generative AI solutions. I specialize in building production-ready REST APIs, RAG pipelines, and LLM-powered intelligent systems using OpenAI, LangChain, LlamaIndex, and open-source LLMs.
+
+### **Current Role**
+
+I work as a **Software Engineer at Automaton AI Infosystem Pvt. Ltd. (2022–Present)**, where I design and develop backend systems, GenAI utilities, and scalable AI applications. My role includes API development, model integrations, cloud deployments, and engineering end-to-end AI pipelines. Since 2024, I have also been outsourced to a client in the **insurance domain** as a backend engineer.
+
+### **Insurance Client Project**
+
+In the client project, I develop and optimize **insurance rater applications** using Python, Pandas, and NumPy.
+Key responsibilities include:
+
+* Converting complex Excel-based formulas into scalable Python logic
+* Implementing state-wise rules, compliance checks, and business validations
+* Building automated scaffolding for input/output validation
+* Writing structured Markdown documentation for business teams
+* Improving performance of rater calculations and data transformations
+* Ensuring accuracy through CSV-based test automation
+
+This work enhanced my skills in **business logic engineering, mathematical modeling, insurance workflows, and backend architecture**.
+
+### **Generative AI & Agentic AI Experience**
+
+I have built multiple end-to-end GenAI and agentic AI solutions using:
+
+* **OpenAI GPT-4/3.5, LLaMA-3, Mistral, Zephyr-7B**
+* **Fine-tuning with LoRA & PEFT**
+* **RAG pipelines using LangChain, LlamaIndex, FAISS, and ChromaDB**
+* **Multi-agent architectures** for automation and reasoning
+* **Azure deployments (ACI, ACR) with Dockerized GenAI APIs**
+
+I actively work on integrating LLMs into real-world systems to solve business problems.
+
+### **Key GenAI Projects**
+
+* **DocuSenseAI** – Developed an NDA Q&A GenAI system using LLaMA-3, fine-tuned with LoRA and deployed on Azure via Docker.
+* **AutoResumeAI** – Built a GPT-4 powered multi-agent HR assistant for resume–JD matching, skill gap analysis, and interview question generation.
+* **IntelliDoc QA** – Developed a RAG-based PDF Q&A system using Zephyr-7B and FAISS for intelligent document analysis.
+
+### **ADVIT Project (Organization Project)**
+
+Contributed to designing backend architecture, optimizing MongoDB queries, building secure authentication flows, and implementing scalable dataset management workflows in Python + Flask.
+
+### **Data Collection Utility (Internship Project)**
+
+Built a complete backend tool to upload, classify, store, and manage image/video datasets using Flask, MongoDB, and Hadoop-based storage architecture.
+
+### **Technical Skills**
+
+* **Languages/Frameworks:** Python, Flask, FastAPI, Django, Pytest
+* **AI Tools:** LangChain, LlamaIndex, LoRA, PEFT, OpenAI, Hugging Face
+* **GenAI:** RAG, Prompt Engineering, Fine-tuning, LLaMA-3, Agentic AI
+* **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, FAISS, ChromaDB
+* **DevOps/Cloud:** Docker, Azure ACI/ACR, App Services, VMs
+* **Tools:** GitHub, Jira, Postman, VS Code, Cursor, UV, Jupyter
+
+I am continuously exploring **LLMs, agentic AI systems, ML algorithms, and advanced GenAI engineering** to deepen my technical expertise.
+
+
+**Agentic AI Personal Project: career_conversation – (OpenAI GPT + Hugging Face Spaces)**
+Built an intelligent personal chatbot capable of answering questions about my background, experience, and skills using generative AI and function-calling.
+
+* Developed a fully interactive **GenAI-powered personal assistant** using **OpenAI GPT-4o-mini**, enabling recruiters to query my experience through natural language conversation.
+* Implemented **function-calling tools** to automatically record user details, track unknown questions, and log insights using **Pushover API**, enhancing engagement analytics.
+* Extractegggd structured information from PDF documents (LinkedIn profile export) and custom summary text using **PyPDF**, enabling the AI to answer questions contextually and accurately.
+* Engineered optimized **system prompts**, context-injection pipelines, and message histories to ensure consistent persona responses and accurate representation of my profile.
+* Built a clean chat interface using **Gradio ChatInterface**, designed for ease of use and smooth conversation flow.
+* Deployed the application to **Hugging Face Spaces (cpu-basic free tier)** using Gradio Deploy CLI with secure environment variables for OpenAI and Pushover credentials.
+* Added automated logging for unanswered questions to continuously improve assistant accuracy and maintain high-quality user interactions.
+
+**Tech Stack:** Python, OpenAI GPT, Function Calling, PyPDF, Gradio, Hugging Face Spaces, Pushover API, Prompt Engineering
